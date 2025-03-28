@@ -1,3 +1,3 @@
 # guitcodepc
-Olá, me chamo Guilherme, estudante atual de 
+Olá, me chamo Guilherme, estudante atual de Engenharia de software.
  
