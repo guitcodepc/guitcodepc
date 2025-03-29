@@ -1,5 +1,5 @@
 # guitcodepc
-👋 | Olá, me chamo Guilherme! 
+👋 | Olá, meu nome é Guilherme! 
 💡  | Engenheiro de Software.
 📬 | Contato:corporativogui@outlook.com
 
