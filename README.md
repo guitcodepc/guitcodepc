@@ -7,7 +7,7 @@ Atualmente curso faculdade de engenharia de software, faço cursos técnicos a p
 Python, Java, AWS, SQL, POO, DynamoDB, Maven, Hibernate.
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guitcodepc/)  <a href = "https://outlook.live.com/mail/0/"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=Email&logoColor=white" target="_blank"></a>       <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/guilhermesoftware/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guitcodepc/)  <a href = "https://outlook.live.com/mail/0/"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=Email&logoColor=white" target="_blank"></a>       <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/guilhermesoftware" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ###  Linguagens e Tecnologias
 
