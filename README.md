@@ -7,7 +7,9 @@ Atualmente curso faculdade de engenharia de software, faço cursos técnicos a p
 Python, Java, AWS, SQL, POO, DynamoDB, Maven, Hibernate.
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guitcodepc/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guitcodepc/)    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/guilhermesoftware/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
 
 
 
