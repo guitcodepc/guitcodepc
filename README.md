@@ -4,7 +4,6 @@
 
 Hello! I'm Guilherme Silva and I'm looking for opportunities to grow professionally in the technology field as a software developer.
 I'm currently studying software engineering at college and taking separate technical courses for personal development and best practices using tools such as:
-
   Skills:
 - DynamoDB
 - OOP
