@@ -3,20 +3,7 @@
 **`Desenvolvedor Java`**
 
 Hello! I'm Guilherme Silva and I'm looking for opportunities to grow professionally in the technology field as a software developer.
-I'm currently studying software engineering at college and taking separate technical courses for personal development and best practices using tools such as:
-  Skills:
-- DynamoDB
-- OOP
-- Java
-- SpringBoot
-- Aws
-- Gitlab
-- SQL
-- Jira
-- IBM Integration Bus
-- JMS, IBM MQ and ActiveMQ
-- Swagger
-- OpenAPI
+I'm currently studying software engineering at college and taking separate technical courses for personal development and best practices using tools such as: SpringBoot, OpenAPI, DinamoDB.
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guitcodepc/)  <a href = "https://outlook.live.com/mail/0/"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=Email&logoColor=white" target="_blank"></a>     	[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermesoftware/)
