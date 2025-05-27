@@ -1,19 +1,10 @@
 # Guilherme Silva
 
 **`Desenvolvedor Java`**
+
 Olá! Sou um entusiasta do desenvolvimento Back-end, especializando em criar experiências de usuário fluidas em diversas plataformas. Atualmente, estou cursando engenharia de software na faculdade e fazendo cursos técnicos separados para desenvolvimento pessoal e melhores práticas utilizando: Java, MySQL, AWS entres outros.
 
-Soft Skills:
-• Comunicação
-• Trabalho em Equipe
-• Pensamento Crítico
-• Adaptabilidade
-• Gestão do tempo e organização
-• Aprendizado contínuo
-• Resolução de Problemas
 
-Habilidades Auxiliares:
-Fundamentos de Ciência da Computação, Algoritmos e Lógica de Programação.
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guitcodepc/)  <a href = "https://outlook.live.com/mail/0/"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=Email&logoColor=white" target="_blank"></a>     	[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermesoftware/)
