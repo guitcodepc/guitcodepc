@@ -7,7 +7,7 @@ Hello! I am an enthusiast of Back-end development, focused on creating seamless 
 Reach me out here: <a href="corporativogui@outlook.com" target="__blank">corporativogui@outlook.com.com</a>
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,aws,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,tailwind,aws,docker,git,java)](https://skillicons.dev)
 
 
 ### Tech 
