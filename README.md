@@ -1,21 +1,21 @@
 ## 👨🏻‍💻 **Guilherme Silva**
 
 
-Studying a Bachelor's Degree in Computer Science (8th/9th semester) at São Judas Tadeu University, passionate about gym, purpose, tech education, martial arts, and taking ideas off paper through code.
+Hello! I am an enthusiast of Back-end development, focused on creating seamless user experiences across multiple platforms. I am in the process of building a solid career in the Back-end field, guided by focus and adaptability. I am currently pursuing a degree in Systems Analysis and Development and taking complementary courses aimed at personal development and best practices in the field, with emphasis on Java, MySQL, and AWS.
 
 
-Reach me out here: <a href="corporativogui@outlook.com" target="__blank">
+Reach me out here: <a href="corporativogui@outlook.com" target="__blank">corporativogui@outlook.com.com</a>
 
 ### Stacks
 [![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,aws,docker,git)](https://skillicons.dev)
 
 
+### Tech 
 
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/guitcodepc?igsh=MWk0Z3JtdG93bDZ2dQ%3D%3D&utm_source=qr)
-
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/guitcodepc?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-### Visit my Dev Community
+### Visit Dev Community
 [![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/programador)
 
 ### Languages
