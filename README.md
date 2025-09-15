@@ -1,7 +1,7 @@
 ## 👨🏻‍💻 **Guilherme Silva**
 
 
-Hello! I am an enthusiast of Back-end development, focused on creating seamless user experiences across multiple platforms. I am in the process of building a solid career in the Back-end field, guided by focus and adaptability. I am currently pursuing a degree in Systems Analysis and Development and taking complementary courses aimed at personal development and best practices in the field, with emphasis on Java, MySQL, and AWS.
+Pursuing a Technologist degree in Systems Analysis and Development (1st/2nd semester) at Uninove University, passionate about programming, purpose, technology education, and turning ideas into reality through code.
 
 
 Reach me out here: <a href="corporativogui@outlook.com" target="__blank">corporativogui@outlook.com</a>
