@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Java`**
 
-Olá! Sou um entusiasta do desenvolvimento Back-end, especializando em criar experiências de usuário fluidas em diversas plataformas. Atualmente, estou cursando Análise e desenvolvimento de sistemas na faculdade e fazendo cursos técnicos separados para desenvolvimento pessoal e melhores práticas utilizando: Java, MySQL, AWS entres outros.
+Olá! sou entusiasta do desenvolvimento Back-end, com foco na criação de experiências de usuário fluidas em diversas plataformas. Estou em processo de construção de uma carreira sólida na área de Back-end, pautada em foco e adaptabilidade. Atualmente, curso Análise e Desenvolvimento de Sistemas e realizo formações complementares voltadas ao desenvolvimento pessoal e às melhores práticas da área, com ênfase em Java, MySQL e AWS.
+
 
 
 
