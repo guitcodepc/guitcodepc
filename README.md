@@ -16,10 +16,6 @@ Reach me out here: <a href="corporativogui@outlook.com" target="__blank">corpora
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/guitcodepc?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
-### Visit my Dev Community
-[![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://https://discord.gg/programador)
-
-
 
 
 ### Languages
