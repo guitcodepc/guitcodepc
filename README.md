@@ -10,10 +10,12 @@ Reach me out here: <a href="corporativogui@outlook.com" target="__blank">corpora
 [![My Skills](https://skillicons.dev/icons?i=java,ts,python,nextjs,react,nodejs,mongodb,postgres,tailwind,aws,docker,git)](https://skillicons.dev)
 
 
+
 ### Social Media 
 
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/guitcodepc?igsh=MWk0Z3JtdG93bDZ2dQ%3D%3D&utm_source=qr)
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/guitcodepc?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
 
 
 
